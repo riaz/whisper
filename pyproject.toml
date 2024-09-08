@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "whisper"
+version = "0.1.0"
+description = "A streaming api and library for STT and TTS"
+authors = ["riaz <riaz.2012@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pytest = "^8.3.2"
+whisper = "^1.1.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
