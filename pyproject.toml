@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "whisper"
+name = "whisperai"
 version = "0.1.0"
 description = "A streaming api and library for STT and TTS"
 authors = ["riaz <riaz.2012@gmail.com>"]
